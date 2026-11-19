@@ -1,0 +1,10 @@
+date,crop,district,market,min_price,max_price,modal_price,arrival_qty
+2026-11-01,Tomato,Bengaluru,KR Market,22,30,26,120
+2026-11-01,Onion,Bengaluru,KR Market,26,34,30,140
+2026-11-01,Potato,Bengaluru,KR Market,17,25,21,160
+2026-11-02,Tomato,Bengaluru,KR Market,24,32,28,120
+2026-11-02,Onion,Bengaluru,KR Market,28,36,32,140
+2026-11-02,Potato,Bengaluru,KR Market,19,27,23,160
+2026-11-03,Tomato,Bengaluru,KR Market,25,33,29,120
+2026-11-03,Onion,Bengaluru,KR Market,29,37,33,140
+2026-11-03,Potato,Bengaluru,KR Market,20,28,24,160
